@@ -1,4 +1,5 @@
-# Android Enterprise Device Management System
+# Spring Boot backend powering Android Enterprise device enrollment and policy-based management using Google’s Android Management API.
+
 
 A Spring Boot backend application providing enterprise integration with the Google Android Management API (AMAPI). The system handles programmatic enterprise linking, state-based policy synchronization, enrollment token generation, local provisioning file exports, and system-wide diagnostic health checks.
 
